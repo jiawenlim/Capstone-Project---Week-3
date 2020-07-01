@@ -8,4 +8,5 @@ With the overall population in New Zealand, the aim is to locate the restaurant 
 In this project, I will be using the data available on Wikipedia Link: https://en.wikipedia.org/wiki/List_of_cities_in_New_Zealand
 This data has provided several information that are crucial to determine the best location to start the restaurant operation. Important information such as population, population density, area size and etc. 
 
+
 Project Link: https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/f5c16a74-e535-448c-8fba-4d94b141329b/view?access_token=be568fa2f253ebf8501acf91cc3c434073b965af4a659f72e3b9d86426937da0
